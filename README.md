@@ -37,7 +37,7 @@ FirmAgent 정제 질문 : 생성된 계획: {
 
 ## POTAT 문서 예시
 - 아래 예시는 "네이버 주식회사" 의 2023년 사업보고서를 기반으로 POTAT 문서를 작성한 예시 입니다.
-![image.png](22a87cda-4070-4f12-8283-dcf20094a87a.png)
+![image.png](https://private-user-images.githubusercontent.com/31065684/420677877-be00f820-02ca-495b-9491-948ea9331581.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE1MzAzNjMsIm5iZiI6MTc0MTUzMDA2MywicGF0aCI6Ii8zMTA2NTY4NC80MjA2Nzc4NzctYmUwMGY4MjAtMDJjYS00OTViLTk0OTEtOTQ4ZWE5MzMxNTgxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA5VDE0MjEwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiZjNhNzBkYTE4NzM1MzNkYjA1YzdiNWQ3YzY3NjJhZmExOTdiOWRkYmUyM2NjNGJiM2Y4ZWVjODljMTVmMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IEKppeGfXguF871payldpZVnBaHEixXui06Qw4JzOh8)
 
 ## 기획
 - 회사에서 "업무" 이외의 다른 일들이 많은데, 각각의 개개인이 핵심 업무에 집중할수 있도록 비핵심업무에 대한 자동화를 해주는 AI Agent 입니다.
